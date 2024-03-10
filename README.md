@@ -1,13 +1,13 @@
-# My Portfolio
+# **My Portfolio**
 
-## About Me:
+## **About Me:**
 I am a passionate and dedicated software developer with expertise in Python programming. I have a strong background in data analysis and machine learning, with experience in developing impactful solutions to complex problems.
 
-## Projects:
+## **Projects:**
 
 ### Project 1: Data Cleaning and Sentiment Analysis on Amazon Product Reviews
 #### Description:
-This project involves performing data cleaning and sentiment analysis on a dataset of Amazon product reviews. I utilized pandas for data manipulation, spaCy for text preprocessing, and TextBlob for sentiment analysis. The project aims to provide insights into customer sentiment towards various products.
+This project involves performing data cleaning and sentiment analysis on a dataset of _Amazon product reviews_. I utilized pandas for data manipulation, spaCy for text preprocessing, and TextBlob for sentiment analysis. The project aims to provide insights into customer sentiment towards various products.
 
 #### Installation:
 - Clone the repository to your local machine.
@@ -20,7 +20,7 @@ This project involves performing data cleaning and sentiment analysis on a datas
 1. Run the script "data_cleaning_sentiment_analysis.py".
 2. Follow the prompts to perform sentiment analysis on product reviews.
 
-### Project 2: Holiday Cost Calculator
+### **Project 2: Holiday Cost Calculator**
 #### Description:
 This project calculates the total cost of a holiday, including expenses for hotel accommodation, flights, and car rental. Users are prompted to enter travel details, and the program calculates the total cost. The project demonstrates my skills in Python programming and problem-solving.
 
@@ -32,4 +32,4 @@ This project calculates the total cost of a holiday, including expenses for hote
 ## Contact Information:
 - Email: [Saadamin55555@gmail.com]
 
-Feel free to reach out to me for collaboration opportunities or to discuss any projects!
+_Feel free to reach out to me for collaboration opportunities or to discuss any projects!_
