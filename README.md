@@ -30,6 +30,6 @@ This project calculates the total cost of a holiday, including expenses for hote
 3. Follow the prompts to enter travel details and calculate the total cost.
 
 ## Contact Information:
-- Email: [saad_amin727@hotmail.com]
+- Email: [saadamin55555@gmail.com]
 
 _Feel free to reach out to me for collaboration opportunities or to discuss any projects!_
