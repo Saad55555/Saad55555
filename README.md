@@ -3,6 +3,10 @@
 ## **About Me:**
 I am a passionate and dedicated software developer with expertise in Python programming. I have a strong background in data analysis and machine learning, with experience in developing impactful solutions to complex problems.
 
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
+![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
+
 ## **Projects:**
 
 ### Project 1: Data Cleaning and Sentiment Analysis on Amazon Product Reviews
