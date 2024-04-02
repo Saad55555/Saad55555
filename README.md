@@ -5,7 +5,7 @@ I am a passionate and dedicated software developer with expertise in Python prog
 
 ![hotmail](https://img.shields.io/badge/hotmail-0e76a8?style=for-the-badge&logo=hotmail&logoColor=white)
 
-![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white-link=https://www.linkedin.com/in/saad-amin/)]
+![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saad-amin/)]
 
 ## **Projects:**
 
