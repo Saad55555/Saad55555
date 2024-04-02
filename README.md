@@ -3,7 +3,7 @@
 ## **About Me:**
 I am a passionate and dedicated software developer with expertise in Python programming. I have a strong background in data analysis and machine learning, with experience in developing impactful solutions to complex problems.
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![hotmail](https://img.shields.io/badge/:badgeContent)
 
 ![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
 
