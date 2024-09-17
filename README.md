@@ -1,19 +1,13 @@
 # **My Portfolio**
 
 ## **About Me:**
-I am a passionate and dedicated software developer with expertise in Python programming. I have a strong background in data analysis and machine learning, with experience in developing impactful solutions to complex problems.
-
-![hotmail](https://img.shields.io/badge/hotmail-0e76a8?style=for-the-badge&logo=hotmail&logoColor=white)
-
-#![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saad-amin/)]
-
-[![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saad-amin/)
+I am a passionate and dedicated software developer with expertise in Python programming. I have a strong data analysis and machine learning background, with experience developing impactful solutions to complex problems.
 
 ## **Projects:**
 
 ### Project 1: Data Cleaning and Sentiment Analysis on Amazon Product Reviews
 #### Description:
-This project involves performing data cleaning and sentiment analysis on a dataset of _Amazon product reviews_. I utilized pandas for data manipulation, spaCy for text preprocessing, and TextBlob for sentiment analysis. The project aims to provide insights into customer sentiment towards various products.
+This project involves data cleaning and sentiment analysis on a dataset of _Amazon product reviews_. I utilized Pandas for data manipulation, spaCy for text preprocessing, and TextBlob for sentiment analysis. The project aims to provide insights into customer sentiment towards various products.
 
 #### Installation:
 - Clone the repository to your local machine.
